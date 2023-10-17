@@ -15,10 +15,6 @@ The process goes like this:
 
 I use this technique often when studying or working for long periods of time. Hope you have fun playing with it!
 
-### Installing Dependencies:
-```bash
-pip3 install -r requirements.txt
-```
 
 ### Execution:
 ```bash
